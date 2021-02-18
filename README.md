@@ -1,1 +1,1 @@
-# CSE3063F20P2_GRP22
+#Object Oriented Software Design Course Fall-2020 Python Poll Analyzer

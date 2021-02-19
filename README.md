@@ -1,6 +1,10 @@
 # Object Oriented Software Design Course Fall-2020 Python Poll Analyzer
 # 1. OVERVIEW
+This is a group project which is assigned in Object Oriented Software Design course.  
+This program is developed to analyze Zoom Poll Reports. It takes any number of poll reports and answers of that polls then evaluates each of them for each student.
 
+>Course Professor :  
+>>**Murat Can Ganiz**
 
 >Engineers :  
 >>**Yunus Emre Ertunç**  

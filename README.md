@@ -4,9 +4,9 @@ This is a group project which is assigned in Object Oriented Software Design cou
 This program is developed to analyze Zoom Poll Reports. It takes any number of poll reports and answers of that polls then evaluates each of them for each student.
 
 >Course Professor :  
->>**Murat Can Ganiz**
+>>**Doç. Dr. Murat Can Ganiz**
 
->Engineers :  
+>Developers :  
 >>**Yunus Emre Ertunç**  
 >>**Muhammed Enes Aktürk**  
 >>**Mahmut Hilmi Arıkmert**  
